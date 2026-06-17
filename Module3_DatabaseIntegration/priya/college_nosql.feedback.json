@@ -1,0 +1,221 @@
+[{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7d5"
+  },
+  "student_id": 1,
+  "course_code": "CS101",
+  "semester": "2022-ODD",
+  "rating": 5,
+  "comments": "Excellent teaching",
+  "tags": [
+    "challenging",
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "notes.pdf",
+      "size_kb": 240
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7d6"
+  },
+  "student_id": 2,
+  "course_code": "CS101",
+  "semester": "2022-ODD",
+  "rating": 4,
+  "comments": "Very useful",
+  "tags": [
+    "challenging",
+    "well-structured"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "slides.pdf",
+      "size_kb": 180
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7d7"
+  },
+  "student_id": 3,
+  "course_code": "CS101",
+  "semester": "2022-EVEN",
+  "rating": 2,
+  "comments": "Too difficult",
+  "tags": [
+    "challenging",
+    "reviewed"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "feedback.docx",
+      "size_kb": 100
+    }
+  ],
+  "needs_review": true
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7d8"
+  },
+  "student_id": 4,
+  "course_code": "CS102",
+  "semester": "2022-ODD",
+  "rating": 5,
+  "comments": "Best course",
+  "tags": [
+    "interactive",
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "java.pdf",
+      "size_kb": 210
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7d9"
+  },
+  "student_id": 5,
+  "course_code": "CS102",
+  "semester": "2021-EVEN",
+  "rating": 1,
+  "comments": "Needs improvement",
+  "tags": [
+    "difficult",
+    "reviewed"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "issue.pdf",
+      "size_kb": 120
+    }
+  ],
+  "needs_review": true
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7da"
+  },
+  "student_id": 6,
+  "course_code": "CS103",
+  "semester": "2022-ODD",
+  "rating": 4,
+  "comments": "Good content",
+  "tags": [
+    "well-structured"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "notes.pdf",
+      "size_kb": 150
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7db"
+  },
+  "student_id": 7,
+  "course_code": "CS103",
+  "semester": "2022-EVEN",
+  "rating": 3,
+  "comments": "Average",
+  "tags": [
+    "moderate"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "report.pdf",
+      "size_kb": 140
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7dc"
+  },
+  "student_id": 8,
+  "course_code": "CS104",
+  "semester": "2022-ODD",
+  "rating": 5,
+  "comments": "Loved it",
+  "tags": [
+    "interactive",
+    "good-examples"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "guide.pdf",
+      "size_kb": 300
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7dd"
+  },
+  "student_id": 9,
+  "course_code": "CS104",
+  "semester": "2021-EVEN",
+  "rating": 2,
+  "comments": "Could be better",
+  "tags": [
+    "challenging",
+    "reviewed"
+  ],
+  "submitted_at": {
+    "$date": "2026-06-15T11:56:39.106Z"
+  },
+  "attachments": [
+    {
+      "filename": "complaint.pdf",
+      "size_kb": 110
+    }
+  ],
+  "needs_review": true
+},
+{
+  "_id": {
+    "$oid": "6a2fe87719f0bb658e3ae7de"
+  },
+  "student_id": 10,
+  "course_code": "CS105",
+  "semester": "2022-ODD",
+  "rating": 4,
+  "comments": "Nice course",
+  "tags": [
+    "well-structured"
+  ]
+}]
